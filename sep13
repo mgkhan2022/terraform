@@ -1,0 +1,5 @@
+stages{
+  stage ("checkout")
+  yem install git
+  
+}
